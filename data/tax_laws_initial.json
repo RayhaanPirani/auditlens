@@ -1,0 +1,58 @@
+[
+    {
+        "id": "fed_brackets_2025",
+        "title": "Federal Tax Brackets 2025",
+        "type": "Tax Rates",
+        "content": "Canadian Federal Income Tax Brackets for 2025:\n\n- 15% on the first $55,867 of taxable income.\n- 20.5% on the next $55,866 of taxable income (on the portion of taxable income over 55,867 up to $111,733).\n- 26% on the next $61,942 of taxable income (on the portion of taxable income over $111,733 up to $173,205).\n- 29% on the next $62,258 of taxable income (on the portion of taxable income over $173,205 up to $235,463).\n- 33% of taxable income over $235,463.\n\nBasic Personal Amount (BPA) for 2025 is $15,705 for individuals with net income of $173,205 or less.",
+        "jurisdiction": "Federal"
+    },
+    {
+        "id": "on_brackets_2025",
+        "title": "Ontario Tax Brackets 2025",
+        "type": "Tax Rates",
+        "content": "Ontario Provincial Income Tax Brackets for 2025:\n\n- 5.05% on the first $51,446 of taxable income.\n- 9.15% on the next $51,446 (on the portion of taxable income over $51,446 up to $102,892).\n- 11.16% on the next $57,144 (on the portion of taxable income over $102,892 up to $150,000).\n- 12.16% on the next $70,000 (on the portion of taxable income over $150,000 up to $220,000).\n- 13.16% on the portion of taxable income over $220,000.\n\nOntario Surtax: You may also pay surtax if your basic Ontario tax is over certain thresholds.",
+        "jurisdiction": "Ontario"
+    },
+    {
+        "id": "bc_brackets_2025",
+        "title": "British Columbia Tax Brackets 2025",
+        "type": "Tax Rates",
+        "content": "British Columbia Provincial Income Tax Brackets for 2025:\n\n- 5.06% on the first $47,937 of taxable income.\n- 7.7% on the next $47,937 (over $47,937 up to $95,874).\n- 10.5% on the next $12,045 (over $95,874 up to $107,919).\n- 12.29% on the next $23,930 (over $107,919 up to $131,849).\n- 14.7% on the next $47,860 (over $131,849 up to $179,709).\n- 16.8% on the next $95,720 (over $179,709 up to $275,429).\n- 20.5% on taxable income over $275,429.",
+        "jurisdiction": "British Columbia"
+    },
+    {
+        "id": "rrsp_rules",
+        "title": "Registered Retirement Savings Plan (RRSP) Rules",
+        "type": "Deductions",
+        "content": "Top 5 RRSP Rules:\n1. Contribution Limit: 18% of your previous year's earned income, up to a maximum ($31,560 for 2024, max for 2025 is $32,490) plus unused contribution room from previous years.\n2. Deadline: Contributions must be made within the first 60 days of the year (usually March 1st) to be deductible for the previous tax year.\n3. Tax Deduction: Contributions reduce your taxable income dollar-for-dollar.\n4. Over-contribution: Lifetime over-contribution buffer is $2,000. Going above this incurs a penalty of 1% per month.\n5. Withdrawals: You can withdraw at any time, but it is taxed as income (unless HBP or LLP). Withholding tax applies immediately.",
+        "jurisdiction": "Federal"
+    },
+    {
+        "id": "fhsa_overview",
+        "title": "First Home Savings Account (FHSA)",
+        "type": "Tax Shelters",
+        "content": "The First Home Savings Account (FHSA) allows prospective first-time home buyers to save for their first home tax-free.\n- Contribution Limit: $8,000 per year, up to a $40,000 lifetime limit.\n- Tax Deduction: Contributions are tax-deductible (like an RRSP).\n- Tax-Free Growth: Investment income earned in the account is tax-free (like a TFSA).\n- Tax-Free Withdrawal: Withdrawals used to buy a qualifying first home are non-taxable.\n- Carry Forward: You can carry forward up to $8,000 of unused contribution room to the next year.",
+        "jurisdiction": "Federal"
+    },
+    {
+        "id": "tuition_credit",
+        "title": "Tuition Tax Credit (T2202)",
+        "type": "Tax Credits",
+        "content": "Tuition fees paid to valid educational institutions can be claimed as a non-refundable tax credit.\n- Form: T2202 (Tuition and Enrolment Certificate).\n- Federal Credit: 15% of eligible tuition fees.\n- Carry Forward: Unused credits can be carried forward indefinitely to future years.\n- Transfer: Instead of carrying forward, you can transfer up to $5,000 of the *current year's* amount to a spouse, common-law partner, parent, or grandparent.",
+        "jurisdiction": "Federal"
+    },
+    {
+        "id": "moving_expenses",
+        "title": "Moving Expenses Deduction",
+        "type": "Deductions",
+        "content": "You can claim moving expenses if:\n1. You moved to be at least 40 kilometers closer to a new work location or post-secondary school.\n2. You earned employment or self-employment income at the new location.\n\nEligible expenses include:\n- Transportation and storage costs.\n- Travel expenses (gas, meals, accommodation).\n- Temporary living expenses (up to 15 days).\n- Cost of cancelling a lease or selling your old home.\n- Cost of purchasing a new home (if you sold your old one).\n\nClaim on form T1-M.",
+        "jurisdiction": "Federal"
+    },
+    {
+        "id": "work_from_home",
+        "title": "Work From Home Expenses",
+        "type": "Deductions",
+        "content": "For 2023 onwards, the 'temporary flat rate method' ($2/day) is NO LONGER available. Employees must use the 'Detailed Method'.\nRequirements:\n- You worked from home more than 50% of the time for at least 4 consecutive weeks.\n- Your employer required you to work from home (Form T2200 must be signed by employer).\n- You can claim a portion of: electricity, heat, water, internet access fees, maintenance and repairs, and rent (but NOT mortgage interest or capital costs).",
+        "jurisdiction": "Federal"
+    }
+]
